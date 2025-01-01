@@ -1,0 +1,6 @@
+﻿  FINAL_PROJECT_TEST.c
+C:\Users\user\Desktop\final-project_test\FINAL_PROJECT_TEST\FINAL_PROJECT_TEST\FINAL_PROJECT_TEST.c(30,5): warning C4013: 'generate_numbers' 未定義; 假設 extern 傳回整數
+C:\Users\user\Desktop\final-project_test\FINAL_PROJECT_TEST\FINAL_PROJECT_TEST\FINAL_PROJECT_TEST.c(39,9): warning C4013: 'compare_numbers' 未定義; 假設 extern 傳回整數
+FINAL_PROJECT_TEST.obj : error LNK2019: 在函式 generate_numbersmain 中參考了無法解析的外部符號
+FINAL_PROJECT_TEST.obj : error LNK2019: 在函式 compare_numbersmain 中參考了無法解析的外部符號
+C:\Users\user\Desktop\final-project_test\FINAL_PROJECT_TEST\x64\Debug\FINAL_PROJECT_TEST.exe : fatal error LNK1120: 2 個無法解析的外部符號
